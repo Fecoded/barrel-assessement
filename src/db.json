@@ -1,0 +1,16 @@
+{
+  "orders": [
+    {
+      "itemName": "Purchase a Laptop",
+      "quantity": 5,
+      "status": "Delivered",
+      "id": 1
+    },
+    {
+      "itemName": "Purchase a Phone",
+      "quantity": 2,
+      "status": "In-Transit",
+      "id": 2
+    }
+  ]
+}
